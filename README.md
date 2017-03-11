@@ -8,4 +8,4 @@ https://kenneth-lau.github.io/lucybot-api-docs/
 
 ## OpenAPI specs
 
-[Instagram API specs](https://github.com/kenneth-lau/lucybot-api-docs/blob/gh-pages/instagram.json)(JSON)
+[Instagram API specs](https://github.com/kenneth-lau/lucybot-api-docs/blob/gh-pages/instagram.json) (JSON)
